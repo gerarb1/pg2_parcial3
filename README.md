@@ -44,3 +44,4 @@ print(persona)
 ## Paquete subido en pypi
 
 en vez de poner geraro_burgos_pg2_tecba le puse DataValidatorpy, porque me parece un nombre mas adecuado para una lbreria
+<img width="1134" height="417" alt="pypi" src="https://github.com/user-attachments/assets/e64e886d-3ab3-4bc0-ae76-b3663493f465" />
