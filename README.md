@@ -1,8 +1,8 @@
 # v
 
-![Releases](https://img.shields.io/pypi/v/gerardo_burgos_pg2_tebca)
-
-![Python Version](https://img.shields.io/pypi/pyversions/gerardo_burgos_pg2_tebca)
+![Releases](https://img.shields.io/pypi/v/DataValidatorpy)
+_pg2_tebca
+![Python Version](https://img.shields.io/pypi/pyversions/DataValidatorpy=0.0.1)
 
 Author: [Gerardo Burgos](https://github.com/gerarb1)
 
