@@ -39,3 +39,8 @@ persona = (
 
 print(persona) 
 ``` # Salida: Persona: Juan Pérez, Edad: 25, Documento: 12345678, Email: juan@example.com, Celular: 987654321, Dirección: Calle Falsa 123
+```
+
+## Paquete subido en pypi
+
+en vez de poner geraro_burgos_pg2_tecba le puse DataValidatorpy, porque me parece un nombre mas adecuado para una lbreria
