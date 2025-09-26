@@ -1,8 +1,7 @@
-# v
+# DataValidatorpy
 
 ![Releases](https://img.shields.io/pypi/v/DataValidatorpy)
-_pg2_tebca
-![Python Version](https://img.shields.io/pypi/pyversions/DataValidatorpy=0.0.1)
+![Python Version](https://img.shields.io/pypi/pyversions/DataValidatorpy)
 
 Author: [Gerardo Burgos](https://github.com/gerarb1)
 
